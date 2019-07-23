@@ -7,7 +7,7 @@ San Francisco is the nation’s leader in property crime. Burglary, larceny, sho
 * Source : https://www.city-journal.org/san-francisco-crime
 
 ## Problem Statement
-Burgeoning growth of business in city with business running round the clock through various establishment spread across the city, its becoming increasingly challenging for the San Francisco to prevent crimes and have a rapid reaction task forces readily deployed for strategic deployment.
+Burgeoning growth of business in city with business running round the clock through various establishment spread across the city, its becoming increasingly challenging for the San Francisco to prevent crimes by having a rapid reaction task force ready for strategic deployment.
 
 To keep the economic engine running that meets the demand of growing population and workforce, San Francisco police department would like to use a smart solution that can give them a demographic spread of various establishment around the city and concentration of reported crimes that can help them deploy its resources in an efficient and timely manner. SFPD would like to see relationship of crimes to concentration of establishment and peak working hours for strategic deployment of police force
 
