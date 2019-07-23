@@ -1,4 +1,4 @@
-## SANFRANCISO VENUES CRIME ANALYTICS
+## Sanfrancisco Venues Crime Analytics
 # Background
 San Francisco is the most densely populated and large city in the state of California. San Francisco is one of the 20 fastest growing cities in the United States. It's estimated that thousands of new residents will call San Francisco home by 2040, and the city Planning Director said that the city would need more than 92,000 more housing units and 191,000 new jobs to accommodate this growth. The Bay Area as a whole will need 1.1 million additional jobs and 660,000 new housing units to provide for an estimated 2.1 million more people who will move to the city by 2040. 
 * Source: worldpopulationreview.com/us-cities/san-francisco-population
